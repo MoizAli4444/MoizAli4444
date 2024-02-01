@@ -1,6 +1,6 @@
 [![MasterHead](https://c0.wallpaperflare.com/preview/49/108/986/business-background-illustration-people.jpg)](https://github.com/MoizAli4444)
 <h1 align="center">Hi 👋, I'm Syed Abdul Moiz Ali</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate web developer from Pakistan</h3>
 <img align="right" alt="coding" width="400" src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moizali4444&label=Profile%20views&color=0e75b6&style=flat" alt="moizali4444" /> </p>
